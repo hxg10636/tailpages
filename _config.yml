@@ -10,9 +10,9 @@ description: This is the websites for Xigang Huang
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author: Xigang Huang
+author-bio: Data Analyst  # change to false to hide
+author-image: IMG_3888.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
